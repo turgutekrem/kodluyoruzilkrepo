@@ -1,14 +1,14 @@
 # Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz](kodluyoruz.org) Frond-end eğitimimnde oluşturduğumuz ilk repo. İçerisinde bir adet READ.me dosyası, bir adet index.html barındırıyor.
+Bu repo [Kodluyoruz](kodluyoruz.org) Frond-end eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet READ.md dosyası, bir adet index.html barındırıyor.
 
 ![](https://raw.githubusercontent.com/Reeyhanyilmaz/kodluyoruzilkrepo/main/assets/indir.png)
 
 ## Insallation 
-öncelikle projeyi klonlayın.  
+Öncelikle projeyi klonlayın.  
 
 ` git clone https://github.com/turgutekrem/kodluyoruzilkrepo.git `
 ## Usage 
-Projeyi klonladıktan sonra Visual Studio Cod programını açınız.
+Projeyi klonladıktan sonra Visual Studio Code programını açınız.
 
 Linux için :
 
