@@ -6,7 +6,9 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Frond-end eğitiminde oluşturduğumuz ilk 
 ## Insallation 
 Öncelikle projeyi klonlayın.  
 
-` git clone https://github.com/turgutekrem/kodluyoruzilkrepo.git `
+```
+ git clone https://github.com/turgutekrem/kodluyoruzilkrepo.git
+ ```
 ## Usage 
 Projeyi klonladıktan sonra Visual Studio Code programını açınız.
 
